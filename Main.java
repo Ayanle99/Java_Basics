@@ -9,7 +9,13 @@ public class Main{
 		boolean trueOrFalse = false;
 		char character = 'a';
 		String string = "Name";
-		
+
+		// We should also learn the for loop, while loop, do-while-loop, and switch statements.
+
+		for (int i = 0; i < 10; i ++){
+			System.out.println("Number : " +i);
+		}
+
 
 
 
